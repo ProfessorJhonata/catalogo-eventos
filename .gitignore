@@ -4,4 +4,6 @@ dist/
 .DS_Store
 .vscode/
 coverage/
-npm-debug.loggit
+npm-debug.log*
+yarn-error.log*
+tsconfig.tsbuildinfo
